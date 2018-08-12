@@ -15,7 +15,7 @@ loop do # Start our loop
   counter = counter + 1
  
   # Do Something
-  puts 
+  puts "Welcome to Flatiron School's Web Development Course!"
  
   if counter >= number_of_times # If our counter is 10 or more
     break # Stop the loop
